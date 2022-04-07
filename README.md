@@ -9,7 +9,7 @@
   <br>
   <br>
 
-  <img alt="Language count" src="https://img.shields.io/github/repo-size/edivandosevero05/ignews"/>
+  <img alt="Language count" src="https://img.shields.io/badge/repo%20size-800k-brightgreen"/>
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
